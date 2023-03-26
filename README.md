@@ -1,6 +1,6 @@
 ###### Hi, I'm Mori
 
-- 🌱 Currently learning Python, Java and JavaScript
+- 🌱 Currently learning Python and C++.
 - 🔗 Currently working on [KuroZ Bot](https://discord.com/oauth2/authorize?client_id=884136237517131847&scope=bot&permissions=8)
 
 [![card](https://github-readme-stats.vercel.app/api?username=MoriitoDev&theme=dark)](https://github.com/MoriitoDev/)
