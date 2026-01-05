@@ -9,7 +9,7 @@
 <h3 align="center">💻 Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,html,css,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=py,js,java,html,css,astro,vscode,git,github,mysql,vercel" />
 </p>
 
 <div align="center">
