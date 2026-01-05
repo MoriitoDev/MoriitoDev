@@ -14,6 +14,6 @@
 
 <div align="center">
   <h3>📈 Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=MoriitoDev&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoriitoDev&layout=compact&theme=dark&hide_border=true" height="150" alt="langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoriitoDev&theme=dracula" width="49%" alt="stats1"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoriitoDev&theme=dracula" width="49%" alt="stats2"/>
 </div>
